@@ -1,7 +1,5 @@
 # 🎬 Movie Recommendation System  
 
-![Movie Recommendation Banner](https://source.unsplash.com/featured/?movies,cinema)  
-
 ## 📌 Overview  
 This is a **content-based movie recommendation system** built using **TF-IDF and Cosine Similarity**. It suggests similar movies based on user input. The system is deployed as a **FastAPI microservice** and containerized using **Docker**.  
 
